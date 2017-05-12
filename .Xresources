@@ -1,0 +1,46 @@
+URxvt.scrollTtyOutput:		false
+URxvt.scrollWithBuffer:		true
+URxvt.scrollTtyKeypress:	true
+URxvt.scrollBar:		false
+URxvt.font:			xft:Cousine:size=10
+URxvt.letterSpace:		-1
+URxvt.iconFile:			/usr/share/icons/Moka/256x256/apps/terminal.png
+URxvt.cursorBlink:		true
+URxvt.cursorUnderline:		true
+
+! arcokai color theme by Siphonay
+
+URxvt.backgroud:		#383c4a
+URXvt.foreground:		#cfdae3
+
+!BLK
+URxvt.color8:           	#434343
+URxvt.color0:           	#2f2f2f
+
+!RED
+URxvt.color1:           	#FF0066
+URxvt.color9:	        	#ff3284
+
+!GRN
+URxvt.color10:   	        #63de5d
+URxvt.color2:     	     	#86C30D
+
+!YEL
+URxvt.color11:           	#E6DB74
+URxvt.color3:     	     	#BEB244
+
+!BLE
+URxvt.color12:           	#5294e2
+URxvt.color4:     	     	#315887
+
+!MAG
+URxvt.color13:           	#ff8eff
+URxvt.color5:    	      	#FF61FF
+
+!CYN
+URxvt.color14:           	#53f2dc
+URxvt.color6:  		       	#00b2ac
+
+!WHT
+URxvt.color15:           	#CCCCCC
+URxvt.color7:	          	#FFFFFF
